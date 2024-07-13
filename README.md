@@ -1,5 +1,4 @@
 # Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+cifar10 is about the first task. It includes net design, loss function, train process and test result.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
